@@ -1,0 +1,28 @@
+.msv{
+    width: 99.5%;
+    height: 45px;
+    border: 1px solid red;
+    background-color: #fff;
+}
+.msv img{
+    float: left;
+    width: 45px;
+}
+#svj{
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    position:left;
+    object-fit: cover;
+    background-size: 45px;
+    border-radius: 5px;
+    margin-top: 2px;
+}
+.svhh select{
+    width: 89.5%;
+    height: 45px;
+    margin-left:%;
+    border:none;
+}
+.svhh select:hover{
+    border:none;
+}

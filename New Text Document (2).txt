@@ -1,0 +1,15 @@
+ <div class="location">
+                    <input type="text" placeholder="          Your Location" id="yl">
+            </div>
+            <br>
+        <div class="msv">
+            <img src="emoji.jpg">
+            <div class="svhh">
+                <select id="sv"> 
+                    <option value="">Select Vehicle Category</option>
+                    <option value="">Car</option>
+                    <option value="">Event</option>
+                    <option value="">Valet</option>
+                    <option value="">Semi Truck</option>
+        </div>
+             </div>
